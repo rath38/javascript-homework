@@ -1,6 +1,6 @@
 # Javascript-homework
 
-This homework we incorporate javascript with html and bootstrap to make a pokemon theme hangman game.
+In this homework we incorporate javascript with html and bootstrap to make a pokemon theme hangman game.
 
 ## Prerequisites
 
